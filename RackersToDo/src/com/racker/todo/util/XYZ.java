@@ -8,4 +8,7 @@ package com.racker.todo.util;
  * To change this template use File | Settings | File Templates.
  */
 public class XYZ {
+
+"This is the content in the master repo file"
+
 }
